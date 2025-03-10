@@ -50,7 +50,7 @@ label {
 }
 
 #country-info img {
-    width: 200px;
+    width: 500px;
     height: 200px;
 }
 
@@ -66,7 +66,7 @@ label {
 }
 
 #bordering-countries img {
-    width: 50px;
-    height: auto;
+    width: 500px;
+    height: 200px;
     margin-right: 10px;
 }
